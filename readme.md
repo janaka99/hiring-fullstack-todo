@@ -61,6 +61,11 @@ npm install
 
 ```
 
+### 6. Add the `VITE_SERVER_URL` to .env
+
+Ex - Make sure add `api` at the end
+VITE_SERVER_URL=http://localhost:3000/api/
+
 ### 6. Run the application
 
 ```bash
